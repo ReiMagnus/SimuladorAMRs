@@ -1,7 +1,7 @@
 # SimuladorAMRs
 Implementação de um simulador de ARMs para a demonstração do algoritmo A*. Projeto desenvolvido para a prova final da disciplina de inteligencia articial da Unitau 2025. Criado por Leonardo Yan e Caio Henrique.
 
-Video da simulação:
+Video da simulação: (Cores distorcidas pela compreensão do video)
 ![VideoSimulação](https://github.com/user-attachments/assets/9caf64c6-8019-4f40-a927-63d4c0275e1e)
 
 Leganda do mapa da simulação.
